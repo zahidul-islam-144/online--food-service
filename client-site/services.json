@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "name": "Chicken Bowl",
+      "offer":"25% off",
+      "price":"$250",
+      "img": "https://www.squadhelp.com/story_images/mp_sale_images/sale-image-41645-meatful.jpg",
+      "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+    },
+    {
+      "id": "2",
+      "name": "Chicken Kotles",
+      "offer":"25% off",
+      "price":"$250",
+      "img": "https://media.gettyimages.com/photos/chinese-udon-noodles-picture-id1140216924?s=612x612",
+      "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+    },
+    {
+      "id": "3",
+      "name": "Boom Nugets",
+      "offer":"25% off",
+      "price":"$250",
+      "img": "https://media.timeout.com/images/105147896/630/472/image.jpg",
+      "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+    },
+    {
+      "id": "4",
+      "name": "Food Blast",
+      "offer":"25% off",
+      "price":"$250",
+      "img": "https://bigseventravel.com/wp-content/uploads/2020/11/cho-cho-e1606482334101.jpg",
+      "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+    },
+    {
+      "id": "5",
+      "name": "Item Born",
+      "offer":"25% off",
+      "price":"$250",
+      "img": "https://sceneeats.com/Content/Admin/Uploads/Articles/ArticlesMainPhoto/4382/c69a00ae-47a9-41a2-a971-8992461482b5.jpg",
+      "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+    },
+    {
+      "id": "6",
+      "name": "Chik Salady",
+      "offer":"25% off",
+      "price":"$250",
+      "img": "https://d1ralsognjng37.cloudfront.net/fc96f496-da70-4202-a4ad-c5f5d50b18f0",
+      "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+    }
+  ]
