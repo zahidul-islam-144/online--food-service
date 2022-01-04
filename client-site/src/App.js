@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './Pages/Home/Home/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
@@ -24,10 +25,18 @@ import Drinks from './Dashboard/Drinks/Drinks';
 import Map from './Dashboard/Explore/Map/Map';
 import Search from './Pages/Home/Services/Search/Search';
 
+=======
+import React from 'react';
+import './App.css';
+import JSONDATA from './services.json';
+import {useState} from 'react';
+>>>>>>> 585bf2d9b687dba91d00c19758a764e4068f7e96
 
 function App() {
+  const [searchTerm, setSearchTerm] = useState('')
   return (
     <div className="App">
+<<<<<<< HEAD
        <AuthProvider>
         <Router>
           <Header></Header>
@@ -93,6 +102,24 @@ function App() {
           </Switch>
         </Router>
       </AuthProvider>
+=======
+      <input type='text' placeholder='Search...' onChange={event => {setSearchTerm(event.target.value)}} />
+      {JSONDATA.filter((val) => {
+        if (searchTerm == ""){
+          return val
+        } else if (val.name.toLowerCase().includes(searchTerm.toLowerCase())) {
+          return val
+        }
+      }).map((val, key) => {
+        return (
+          <div className='user' key={key}>
+           <p>{val.name}</p>
+           <p>{val.offer}</p>
+           <p>{val.description}</p> 
+          </div>
+        );
+      })}
+>>>>>>> 585bf2d9b687dba91d00c19758a764e4068f7e96
     </div>
   );
 }
