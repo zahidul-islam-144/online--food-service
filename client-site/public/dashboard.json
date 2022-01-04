@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "name": "Chicken Nusto",
+   
+    "price":"$150",
+    "img": "http://mywordsnthoughts.com/myworld/wp-content/uploads/2017/10/chicken-tips.jpg",
+    "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+  },
+  {
+    "id": "2",
+    "name": "Host Sand",
+   
+    "price":"$400",
+    "img": "https://media.easemytrip.com/media/Blog/India/636976865438740666/636976865438740666ohXdcD.jpg",
+    "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+  },
+  {
+    "id": "3",
+    "name": "Turkey Bilo",
+    "price":"$350",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlufA_r7NDaxUjnBjssJuuw6yMnr9MN1oBkWBloJwBxyZxwMmNeA0N0Bqu6bXopH1V4O0&usqp=CAU",
+    "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+  },
+  {
+    "id": "4",
+    "name": "Shegi Las",
+   
+    "price":"$200",
+    "img": "https://cdn.thealternativedaily.com/wp-content/uploads/2017/04/Glyphosate-residue-is-found-on-many-processed-food-items.jpg",
+    "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+  },
+  {
+    "id": "5",
+    "name": "Chik Rice",
+
+    "price":"$180",
+    "img": "https://img.theweek.in/content/dam/week/webworld/feature/lifestyle/2017/december/chicken-biriyani.jpg",
+    "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+  },
+  {
+    "id": "6",
+    "name": "Egg Juice",
+  
+    "price":"$80",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTej5eKPnAD7mNKafI7AblZ40oRMy_QLBM3YQ&usqp=CAU",
+    "description": "Food item means a raw, cooked, or processed edible sub- stance, ice, beverage, or ingredient used or intended for use or for sale in whole or in part for human consump- tion."
+  }
+]
